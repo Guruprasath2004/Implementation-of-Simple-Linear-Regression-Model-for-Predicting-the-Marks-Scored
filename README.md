@@ -20,8 +20,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```C
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: CHARUMATHI R
-RegisterNumber: 212222240021 
+Developed by: GURUPRASATH V
+RegisterNumber: 212222080019
 */
 import pandas as pd
 import numpy as np
@@ -90,12 +90,12 @@ print("RMSE= ",rmse)
 
 
  ## Training Set:
-![263971254-4b3957fd-3a36-4d22-ba6e-cb7204cd2f84](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/088c3714-a70d-4ef0-b952-1d26c48e1fa8)
 
+![image](https://github.com/Guruprasath2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/136326137/bd96abf5-8ceb-4423-91c5-cd32a6d9f65f)
 
  ## Testing Set:
 
-![263970887-0f5b3275-abac-4d48-a56f-b7634d559a81](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/aa18e6a5-11f7-410e-bbd6-89c052ff52a6)
+![image](https://github.com/Guruprasath2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/136326137/3c608440-964c-4212-b191-c0f9a43b925e)
 
  
 ## Result:
